@@ -4,3 +4,25 @@ body {
 }
 
 /* Add styling to replicate the model website */
+.cardBlue{
+    background-color: blue;
+}
+
+.cardGreen{
+    background-color: green;
+}
+
+.card-title{
+    color: white !important;
+    text-align: center;
+}
+
+.card-text{
+ color: white !important;
+ text-align: center;
+}
+
+h2{
+color:white;
+text-align: center;
+}
